@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"Composer",
+		"CSS Snippets",
+		"Djaneiro",
+		"Django",
+		"Django Click",
+		"Dockerfile Syntax Highlighting",
+		"Function Name Display",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"jQuery",
+		"Package Control",
+		"Phpcs",
+		"PhpDoc",
+		"PHPIntel",
+		"Python Breakpoints",
+		"rsub",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
+		"Sublimerge Pro",
+		"Tag",
+		"TodoReview",
+		"TrailingSpaces",
+		"Vagrant",
+		"VCS Gutter"
+	]
+}
