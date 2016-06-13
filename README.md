@@ -11,8 +11,9 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 
 Sincronizar esta pasta com as configurações do Usuário criada em `~/.config/sublime-text-3/Packages/User`.
 ```
-$ cd ~/.config/sublime-text-3/Packages/User
-git clone https://github.com/GustavoVS/sublime_user.git .
+$ cd ~/.config/sublime-text-3/Packages/
+$ mv User User_bkp
+$ git clone https://github.com/GustavoVS/sublime_user.git User
 ```
 
 And Be Happy.
