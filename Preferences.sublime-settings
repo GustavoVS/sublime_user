@@ -6,6 +6,8 @@
 		"SideBarEnhancements",
 		"Vintage"
 	],
+    "theme": "Material-Theme.sublime-theme",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

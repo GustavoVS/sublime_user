@@ -7,6 +7,8 @@
 	[
 		"Anaconda",
 		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
 		"Composer",
 		"CSS Snippets",
 		"Djaneiro",
@@ -19,6 +21,7 @@
 		"HTMLBeautify",
 		"JavaScript Completions",
 		"jQuery",
+		"Material Theme",
 		"Package Control",
 		"Phpcs",
 		"PhpDoc",
