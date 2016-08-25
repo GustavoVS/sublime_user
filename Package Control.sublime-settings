@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"Anaconda",
+		"AngularJS",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
@@ -40,10 +42,12 @@
 		"SublimeLinter-phplint",
 		"SublimeLinter-phpmd",
 		"Sublimerge Pro",
+		"SyncedSideBar",
 		"Tag",
 		"TodoReview",
 		"TrailingSpaces",
 		"Vagrant",
-		"VCS Gutter"
+		"VCS Gutter",
+		"Xdebug Client"
 	]
 }

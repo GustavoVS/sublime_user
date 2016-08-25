@@ -1,13 +1,12 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 11,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"SideBarEnhancements",
 		"Vintage"
 	],
-    "theme": "Material-Theme.sublime-theme",
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
