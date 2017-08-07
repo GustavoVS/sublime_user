@@ -1,12 +1,12 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 11,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"SideBarEnhancements",
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Boxy Solarized Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

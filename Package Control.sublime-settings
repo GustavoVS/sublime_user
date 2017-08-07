@@ -7,7 +7,7 @@
 	[
 		"3024 Color Scheme",
 		"Anaconda",
-		"AngularJS",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
@@ -24,6 +24,8 @@
 		"HTMLBeautify",
 		"JavaScript Completions",
 		"jQuery",
+		"LESS",
+		"Markdown Extended",
 		"Material Theme",
 		"Package Control",
 		"Phpcs",
